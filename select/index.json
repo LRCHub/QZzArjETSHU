@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Seventeen",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-23T07:17:27.401510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "Keren Ann",
+      "has_synced": true,
+      "path": "select/01_Seventeen_Keren_Ann.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "Girls' Generation",
+      "has_synced": false,
+      "path": "select/02_Seventeen_Girls'_Generation.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Seventeen_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sixteen Going On Seventeen - Live",
+      "artist": "Girls' Generation (Seo Hyun)",
+      "has_synced": true,
+      "path": "select/04_Sixteen_Going_On_Seventeen_-_Live_Girls'_Generation_(Seo_Hyun).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sixteen Going On Seventeen (서현)",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/05_Sixteen_Going_On_Seventeen_(서현)_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seventeen (Acapella)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/06_Seventeen_(Acapella)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seventeen - Darren Emerson Radio Edit",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/07_Seventeen_-_Darren_Emerson_Radio_Edit_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seventeen - Droyds 12\" Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/08_Seventeen_-_Droyds_12__Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seventeen (Justin Robertson Mix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/09_Seventeen_(Justin_Robertson_Mix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/10_Seventeen_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seventeen (Soulwax Mix)",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/11_Seventeen_(Soulwax_Mix)_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "YOH KAMIYAMA",
+      "has_synced": false,
+      "path": "select/12_Seventeen_YOH_KAMIYAMA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "Oh No",
+      "has_synced": false,
+      "path": "select/13_Seventeen_Oh_No.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seventeen",
+      "artist": "Bambee",
+      "has_synced": false,
+      "path": "select/14_Seventeen_Bambee.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Seventeen (Slam remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/15_Seventeen_(Slam_remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Edge of Seventeen",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/16_Edge_of_Seventeen_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seventeen",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_Seventeen_YOASOBI.txt"
+    }
+  ]
+}
